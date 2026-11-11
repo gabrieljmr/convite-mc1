@@ -10,8 +10,8 @@ var CONFIG = {
   local: "Confetti Festas e Eventos",    /* <<< ALTERAR: nome do local da festa */
   endereco: "R. Santos Coelho Neto, 323 - Manaíra, João Pessoa - PB, 58038-451",  /* <<< ALTERAR: endereço completo (o botão do mapa usa isto) */
   whatsapp: "558381347776",                        /* <<< ALTERAR: número do WhatsApp só com dígitos. Ex.: 5583999999999 */
-  roupa: "Tamanho 3 a 4 anos",         /* <<< ALTERAR: tamanho de roupa */
-  calcado: "Numeração 24/25"           /* <<< ALTERAR: numeração do calçado */
+  roupa: "Tamanho 2 e 3 anos",         /* <<< ALTERAR: tamanho de roupa */
+  calcado: "Numeração 22/23"           /* <<< ALTERAR: numeração do calçado */
 };
 /* ===================== fim da área de edição ===================== */
 
