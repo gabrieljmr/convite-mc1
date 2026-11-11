@@ -5,11 +5,11 @@
    ============================================================ */
 var CONFIG = {
   foto: "foto-maria-catarina.jpeg",     /* nome da foto, que fica na mesma pasta do index.html. Se usar outra foto, renomeie o arquivo para este nome */
-  idade: 3,                            /* <<< ALTERAR: idade que ela vai completar */
-  data: "2027-01-23T16:00:00-03:00",   /* <<< ALTERAR: data e hora. Formato: AAAA-MM-DDTHH:MM:00-03:00 */
-  local: "Espaço Jardim Encantado",    /* <<< ALTERAR: nome do local da festa */
-  endereco: "Rua das Flores, 123, Bairro, Cidade - UF",  /* <<< ALTERAR: endereço completo (o botão do mapa usa isto) */
-  whatsapp: "",                        /* <<< ALTERAR: número do WhatsApp só com dígitos. Ex.: 5583999999999 */
+  idade: 1,                            /* <<< ALTERAR: idade que ela vai completar */
+  data: "2027-01-10T17:00:00-03:00",   /* <<< ALTERAR: data e hora. Formato: AAAA-MM-DDTHH:MM:00-03:00 */
+  local: "Confetti Festas e Eventos",    /* <<< ALTERAR: nome do local da festa */
+  endereco: "R. Santos Coelho Neto, 323 - Manaíra, João Pessoa - PB, 58038-451",  /* <<< ALTERAR: endereço completo (o botão do mapa usa isto) */
+  whatsapp: "558381347776",                        /* <<< ALTERAR: número do WhatsApp só com dígitos. Ex.: 5583999999999 */
   roupa: "Tamanho 3 a 4 anos",         /* <<< ALTERAR: tamanho de roupa */
   calcado: "Numeração 24/25"           /* <<< ALTERAR: numeração do calçado */
 };
